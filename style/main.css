@@ -12,10 +12,11 @@
 body {
    background: var(--preta);
    font-family: 'Times New Roman', Times, serif;
+   color: white;
 }
 
 header .container {
-    margin-left: 5px;
+    margin-left: 5px ;
     display: flex;
     flex-direction: row;
     align-items: center;
