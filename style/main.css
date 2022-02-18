@@ -9,6 +9,9 @@
     box-sizing: border-box;
 }
 
+/* Elementos básicos
+*/
+
 body {
    background: var(--preta);
    font-family: 'Times New Roman', Times, serif;
@@ -38,4 +41,13 @@ header nav a {
 
 header nav a:hover {
     color: #fff;
+}
+
+/* Filme Principal
+*/
+
+
+.filme-principal {
+    font-size: 16px;
+    background: url('/img/capa.jpg'); 
 }
