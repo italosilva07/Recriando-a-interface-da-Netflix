@@ -30,6 +30,8 @@ header .logo {
     color: var(--vermelho);
     font-family: 'Ariel Black', Times;
     font-size: 40px;
+    margin-left: 20px;
+    margin-right: 10px;
 }
 
 header nav a {
@@ -88,5 +90,14 @@ header nav a:hover {
 }
 
 .botao i {
-    margin: 10px;
+    margin-right: 10px;
+}
+
+.container {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.filme-principal .container {
+    width: 65%;
 }
